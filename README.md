@@ -1,3 +1,24 @@
-# Deep-Learning-Challengee
 I had less parameters in my model summary and it means I have less features. Now I  don't know why. But I ended up with a better accuracy at the last epoch then what's on the starter_code.
 I switched from ReLu to Tanh for my first hidden layers because it's a multidimensional graph and maybe not linear. But I noticed I had a better accuracy with ReLu
+
+# Report
+
+## Analysis Overview
+
+Overview of the analysis: Explain the purpose of this analysis.
+
+## Results
+Results: Using bulleted lists and images to support your answers, address the following questions:
+
+## Data Preporcessing
+Data Preprocessing
+
+What variable(s) are the target(s) for your model?
+What variable(s) are the features for your model?
+What variable(s) should be removed from the input data because they are neither targets nor features?
+Compiling, Training, and Evaluating the Model
+
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
+Were you able to achieve the target model performance?
+What steps did you take in your attempts to increase model performance?
+Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
